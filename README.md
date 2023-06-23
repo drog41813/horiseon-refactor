@@ -5,12 +5,15 @@
 The code that is provided contains an HTML file and a CSS file. These two files represent a website that contains a header section, main content, sidebar, and a footer section. The website's purpose is to provide information on digital marketing services.
 
 ## Usage
-The website can be accessed through here:
-
+The website can be accessed through here: https://drog41813.github.io/horiseon-refactor/
+(![Alt text](./assets/images/horiseon-page.png))
 
 
 ## Credits
-The following starter code belongs to the UT coding bootcamp 
+The following starter code belongs to the UT coding bootcamp: 
+https://github.com/coding-bootcamp/urban-octo-telegram 
+The following site assisted with changing the html file to include semantics: https://www.w3schools.com/html/html5_semantic_elements.asp
+
 ## License
 
 MIT License
