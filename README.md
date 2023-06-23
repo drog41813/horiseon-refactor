@@ -6,7 +6,7 @@ The code that is provided contains an HTML file and a CSS file. These two files 
 
 ## Usage
 The website can be accessed through here: https://drog41813.github.io/horiseon-refactor/
-(![Alt text](./assets/images/horiseon-page.png))
+![Alt text](./assets/images/horiseon-page.png)
 
 
 ## Credits
