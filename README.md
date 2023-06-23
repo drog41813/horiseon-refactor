@@ -11,7 +11,7 @@ The website can be accessed through here: https://drog41813.github.io/horiseon-r
 
 ## Credits
 The following starter code belongs to the UT coding bootcamp: 
-https://github.com/coding-bootcamp/urban-octo-telegram 
+https://github.com/coding-boot-camp/urban-octo-telegram 
 The following site assisted with changing the html file to include semantics: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
